@@ -35,6 +35,6 @@ This project is a Vue 3 application that overlays a freehand drawing canvas on t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/maplibre-konva-draw.git
-cd maplibre-konva-draw
+git clone https://github.com/hafizmuhammadaslam10/maplibre-draw-vue.git
+cd maplibre-draw-vue
 ```
